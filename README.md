@@ -5,7 +5,7 @@ This project analyzes **road accident data** using **Microsoft Excel** to uncove
 
 The **interactive Excel dashboard** helps understand accident patterns, providing valuable information for **road safety analysis and decision-making**.  
 
-![Dashboard Screenshot](DashboardScreenshot.png)
+![Dashboard Screenshot](RoadAccidentDashboardScreenshot.png)
 
 ---
 
