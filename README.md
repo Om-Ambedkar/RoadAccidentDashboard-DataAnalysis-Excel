@@ -37,7 +37,8 @@ The **interactive Excel dashboard** helps understand accident patterns, providin
 ## 📊 Data Analysis Steps  
 ### **1️⃣ Data Cleaning & Preparation**  
 - Removed duplicates and handled missing values.  
-- Standardized date formats and categorized accident severity.  
+- Standardized date formats and categorized accident severity.
+- Handled missing values.  
 
 ### **2️⃣ Data Visualization**  
 - Created **Pivot Tables** for accident trends by year, vehicle type, and location.  
